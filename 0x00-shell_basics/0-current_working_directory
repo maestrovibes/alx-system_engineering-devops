@@ -1,3 +1,3 @@
-root@4155dfd06358:~/alx-system_engineering-devops/0x00-shell_basics# pwd                                                                
-
-/root/alx-system_engineering-devops/0x00-shell_basics 
+#!/bin/bash
+pwd
+ 
